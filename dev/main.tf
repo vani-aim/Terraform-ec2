@@ -4,4 +4,4 @@ module "my_ec2" {
   ami_id        = "ami-027cab9a7bf0155df"
   instance_type = "t2.micro"
 }
-~
+
